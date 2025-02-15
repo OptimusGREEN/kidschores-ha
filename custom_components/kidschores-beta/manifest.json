@@ -1,6 +1,6 @@
 {
-  "domain": "kidschores",
-  "name": "KidsChores",
+  "domain": "kidschores-beta",
+  "name": "KidsChoresBeta",
   "codeowners": ["@ad-ha"],
   "config_flow": true,
   "dependencies": [],
@@ -8,5 +8,5 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/ad-ha/kidschores-ha/issues",
   "requirements": [],
-  "version": "0.1.2-beta-rc3"
+  "version": "0.1.6-beta-rc6"
 }
